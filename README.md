@@ -34,7 +34,7 @@ This script performs a foundational exploration of the dataset through:
 2. Execute the script from your terminal:
 
 ```bash
-python analyze_cybersecurity_data.py
+python main.py
 ```
 
 ## 🧠 Requirements
